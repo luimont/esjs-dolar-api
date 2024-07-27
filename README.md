@@ -26,7 +26,7 @@ La documentación de la API está disponible en [DolarApi.com](https://dolarapi.
 - [CotizArg](https://github.com/nehuengiacone/CotizArg): Sistema de escritorio para consultar las diferentes cotizaciones del dolar en Argentina.
 - [Dólarcito](https://dolarcito.netlify.app/): SPA desarrollada con React que muestra las diferentes cotizaciones del Dólar y permite hacer conversiones entre pesos y dólares.
 - [FinherArg](https://finherarg.com): Plataforma web donde se podrá encontrar diversas herramientas e información sobre finanzas.
-- [DolarArg](https://dolar-arg-app.netlify.app/): App Web que muestra las cotizaciones de dólares en Argentina con agradable diseño.
+- [DolarArg](https://dolar-arg-app.netlify.app/): App Web que muestra las cotizaciones de dólares en Argentina con un agradable diseño.
 - [Dolar Info](https://www.dolar-info.com/): Aplicación web enfocada en ofrecer información actualizada para analizar indicadores económicos claves de Argentina.
 
 > [!NOTE]  
